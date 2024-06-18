@@ -1,0 +1,133 @@
+@media screen and (max-width: 440px){
+     nav .logo p{
+        font-size: 15px;
+     }
+     nav .logo p span{
+        font-size: x-large;
+     }
+     .nav-link{
+        display:none;
+     }
+    .section-1-text{
+        width: 90%;
+        margin: 15% 0px;
+    }
+   .section-1 h1{
+    font-size: 55px;
+   }
+.section-1-img{
+    margin-bottom: 15%;
+}
+.section-2-top{
+    display: grid;
+}
+.section-2-top .left{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+.section-2-top .left h1{
+    font-size: 60px;
+}
+.section-2-top .right{
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+}
+.section-2-top .right p{
+    text-align: center;
+    font-size: x-large;
+}
+.section-2-body .box img{
+    width:50%;
+    height: 25%;
+}
+.section-2-body .box h2{
+    font-size: 25px;
+}
+.section-2-body .box p{
+    font-size: 15px;
+}
+.section-3 h1{
+    width: 90%;
+    font-size: 55px;
+    line-height: 60px;
+}
+
+.section-3 p{
+    width: 90%;
+}
+.section-4{
+    gap: 0px;
+    padding: 0%;
+}
+.section-4-body{
+    display:grid;
+}
+.section-4-text{
+    width: 45%;
+    text-align: center;
+}
+.section-4-text h1{
+    font-size: 60px;
+}
+
+.section-5 p{
+    font-size: 18px;
+}
+.section-5 p:nth-child(2)
+{  
+    word-spacing: 0px; 
+}
+
+.section-6-body{
+    gap: 5px;
+}
+.section-6 h1{
+    font-size: 55px;
+    text-align: center;
+}
+.section-6-body .box{
+    width: 43%;
+}
+.section-6 .box h2{
+    font-size: 25px;
+}
+.section-7 h1{
+    font-size: 40px;
+    padding: 0px 0px 50px 10px;
+}
+.section-7-footer{
+    font-size: 10px;
+    width: 50%;
+    bottom: -8%;
+}
+ 
+.footer-body .top{
+    gap: 20px;
+}
+.footer-body .left{
+    width: 50%;
+} 
+ .footer-body .left h1{
+    font-size: 35px;
+}
+.footer-body .left p{
+    font-size: 14px;
+}
+.footer-body .right{
+    width: 50%;
+}
+.footer-body .right input{
+     width: 70%;
+     font-size: 14px;
+}
+.footer-body .right i{
+    font-size: 18px;
+}
+
+.footer-body .bottom li{
+    font-size: 12px;
+} 
+}
+
